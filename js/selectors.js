@@ -1,3 +1,5 @@
 // declare your functions here...
 
-function paragraph
+function paragraphSelector() {
+  
+};
